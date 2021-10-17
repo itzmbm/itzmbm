@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Forkify](https://github.com/itzmbm/Forkify)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript,React**
 
 - 💬 Ask me about **JavaScript, Java, PHP**
 
