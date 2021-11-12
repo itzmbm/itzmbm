@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manjunath B M</h1>
 <h3 align="center">A passionate frontend developer in Bengaluru, India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmbm&theme=monokai&column=7&row=1" alt="itzmbm" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmbm&theme=monokai&column=4&row=1&margin-w=15" alt="itzmbm" /></a> </p>
 
 - 🔭 I’m currently working on [Forkify](https://github.com/itzmbm/Forkify)
 
