@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmbm&theme=monokai&column=4&row=1&margin-w=15" alt="itzmbm" /></a> </p>
 
-- 🔭 I’m currently working on [Forkify](https://github.com/itzmbm/Forkify)
+- 🔭 I’m currently working on [DressUp](https://github.com/itzmbm/DressUp)
 
 - 🌱 I’m currently learning **JavaScript,React**
 
